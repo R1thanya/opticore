@@ -1,47 +1,47 @@
 body {
-  font-family: "Segoe UI", sans-serif;
-  line-height: 1.6;
+    font-family: "Segoe UI", sans-serif;
+    line-height: 1.6;
 }
 
 .soft-logo {
-  font-weight: bold;
-  color: #2a2a2a;
-  font-size: 1.5rem;
+    font-weight: bold;
+    color: #2a2a2a;
+    font-size: 1.5rem;
 }
 
 .soft-link {
-  color: #2a2a2a !important;
-  margin-left: 1rem;
+    color: #2a2a2a !important;
+    margin-left: 1rem;
 }
 
 .soft-link:hover {
-  color: #0d6efd !important;
+    color: #082a5e !important;
 }
 
 .welcome-box {
-  background: #f8f9fa;
+    background: #e9f4ff;
 }
 
 .talk-button {
-  font-weight: 500;
-  padding: 0.6rem 1.4rem;
+    font-weight: 500;
+    padding: 0.6rem 1.4rem;
 }
 
 .info-card {
-  background: #ffffff;
-  border: 1px solid #dee2e6;
-  border-radius: 10px;
+    background: #ffffff;
+    border: 1px solid #dee2e6;
+    border-radius: 10px;
 }
 
 .plan-area {
-  background: #f0f4f8;
+    background: #e9f4ff;
 }
 
 .plan-card {
-  background: #ffffff;
-  border-radius: 10px;
+    background: #ffffff;
+    border-radius: 10px;
 }
 
 .featured-card {
-  border: 2px solid #0d6efd;
+    border: 2px solid #0d6efd;
 }
